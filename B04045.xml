@@ -1,0 +1,337 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lilly lash't vvith his ovvn rod. Or, An epigram on the quaint skill of that arch temporizing astrologer Mr. William Lilly. Collected out of his almanacks, from [1]647, to this present year, 1660.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04045</idno>
+            <idno type="STC">Wing L2253</idno>
+            <idno type="STC">Thomason 669.f.25[23]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.4[119]</idno>
+            <idno type="EEBO-CITATION">99883924</idno>
+            <idno type="PROQUEST">ocm99883924</idno>
+            <idno type="VID">182788</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04045)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182788)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A4:2[120])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Lilly lash't vvith his ovvn rod. Or, An epigram on the quaint skill of that arch temporizing astrologer Mr. William Lilly. Collected out of his almanacks, from [1]647, to this present year, 1660.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Verse: "Sound first A trumpet, that the world may hear ..."</note>
+                  <note>There are two states: a) imprint has "." after "year"; b) has "," after "year".</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lilly, William, 1602-1681 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="epigram">
+            <pb facs="tcp:182788:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <head>LILLY Laſh't vvith his ovvn ROD. OR, AN EPIGRAM On the Quaint Skill of that Arch Temporizing ASTROLOGER M<hi rend="sup">R.</hi> WILLIAM LILLY.</head>
+            <head type="sub">
+               <hi>Collected out of his ALMANACKS, from <gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>647, to this preſent year, 1660.</hi>
+            </head>
+            <lg>
+               <l>SOund forth A <hi>Trumpet,</hi> that the world may hear,</l>
+               <l>The <hi>Great skill</hi> of this <hi>Fam'd Aſtrologer.</hi>
+               </l>
+               <l>He that <hi>foreſees all</hi> things in <hi>Church</hi> and <hi>State,</hi>
+               </l>
+               <l>By help oth' <hi>Chryſtal,</hi> And his <hi>Book of Fate.</hi>
+               </l>
+               <l>He that makes uſe of <hi>Direful Negromancie,</hi>
+               </l>
+               <l>To <hi>terrifie</hi> the <hi>tim'rous</hi> yielding <hi>Phancie,</hi>
+               </l>
+               <l>He that doth uſe whole <hi>Nations to Trepan,</hi>
+               </l>
+               <l>With the bare Names of <hi>Angel-Guardian,</hi>
+               </l>
+               <l>The <hi>Sybils Oracles,</hi> and <hi>Theurgie,</hi>
+               </l>
+               <l>
+                  <hi>With's Little knowledge had of Ptolome!</hi>
+               </l>
+               <l>
+                  <hi>All forts</hi> attend! whilſt briefly I relate,</l>
+               <l>The <hi>Dirty jugling of this Son of Fate.</hi>
+               </l>
+               <l>The <hi>Cunning uſed,</hi> by this <hi>Albumazer,</hi>
+               </l>
+               <l>That of your <hi>common Cheats</hi> ſurpaſſeth far.</l>
+               <l>They <hi>Contra-Legem,</hi> th' Country <hi>quack about,</hi>
+               </l>
+               <l>And deal their <hi>dirty-skill,</hi> at <hi>ſmall rate</hi> out,</l>
+               <l>To <hi>Gull the Sillyer ſort;</hi> this <hi>Artizan,</hi>
+               </l>
+               <l>Proclaims <hi>himſelf</hi> a <hi>ſixed conjuring man;</hi>
+               </l>
+               <l>And <hi>Pride in him</hi> ſo monſtrouſly prevails,</l>
+               <l>To be the <hi>States Belwether</hi> he Aſſails.</l>
+               <l>And then ſo furiouſly to work he goes,</l>
+               <l>He forfeits ail the <hi>honeſt Art</hi> he knowes,</l>
+               <l>For the <hi>baſe Lucre</hi> of <hi>two hundred pound</hi>
+               </l>
+               <l>
+                  <hi>A Year.</hi> 
+                  <note n="*" place="margin">
+                     <hi>Lilly had ſuch a Sallary from White-Hall by the means of one</hi> Froſt <hi>a Secrita<g ref="char:EOLhyphen"/>ry to the Council of State, as I have heard him ac<g ref="char:EOLhyphen"/>know<g ref="char:EOLhyphen"/>ledge.</hi>
+                  </note>(But changes ſtill, as th' wheel turns round)</l>
+               <l>And that <hi>all Pe<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſons</hi> to him may repaire</l>
+               <l>
+                  <hi>Two Dyals Point us forth this Blazing Star:</hi>
+               </l>
+               <l>That if the <hi>Lord of Gypſies</hi> men would ſee,</l>
+               <l>
+                  <hi>In th' Strand there dwels, the May-pole, Stocks, and Hee!</hi>
+               </l>
+               <l>Take ſome <hi>Specimina</hi> of his <hi>rare skill;</hi>
+               </l>
+               <l>(And chide me for't, if I report him ill)</l>
+               <l>In <hi>forty ſeaven,</hi> the <hi>Scots moſt Prudent were</hi>
+               </l>
+               <l>(Or he a <hi>filthy lyar</hi> did appear!)</l>
+               <l>Nay he Confided in <hi>their Nobles;</hi> And</l>
+               <l>
+                  <hi>Their Miniſtry</hi> Procla'm the worth oth' Land.</l>
+               <l>And in his <hi>forty eight years</hi> fine Epiſtle,</l>
+               <l>In <hi>their</hi> behalf, did confidently Briſtle!</l>
+               <l>Pronouncing <hi>them moſt honeſt;</hi> And <hi>men Guided</hi>
+               </l>
+               <l>By a <hi>Good Covenant.</hi> [From which they backſlided.]</l>
+               <l>
+                  <hi>They did return, delivered our Towns,</hi>
+               </l>
+               <l>[For which they Jugled from us, many pounds!]</l>
+               <l>Eut yet in <hi>forty nine,</hi> he Rails aloud</l>
+               <l>Calling <hi>them Pil-f<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ing Scots; Peeviſh</hi> and <hi>Proud;</hi>
+               </l>
+               <l>
+                  <hi>Traytors,</hi> and <hi>Enemies;</hi> A <hi>Graceleſs crew,</hi>
+               </l>
+               <l>Of <hi>Villaines;</hi> worſe then any <hi>Turk</hi> or <hi>Jew.</hi>
+               </l>
+               <l>And in his <hi>Merlin fifty one</hi> they are</l>
+               <l>
+                  <hi>Egyptian Scots; Pſeud-Presbyters</hi> that dare</l>
+               <l>Do any thing, <hi>againſt this Power,</hi> for which</l>
+               <l>(Deſervedly) they were Rid of their Itch.</l>
+               <l>
+                  <hi>And is there any Deliars Wizzard can,</hi>
+               </l>
+               <l>
+                  <hi>In Temporiſing, match this cunning-man?</hi>
+               </l>
+               <l>At this Rate with the <hi>Parliament</hi> he deals.</l>
+               <l>Telling the world, that <hi>they our Breaches heal;</hi>
+               </l>
+               <l>That <hi>they're</hi> by God appointed for to ſcourge</l>
+               <l>The <hi>Norman Race:</hi> and <hi>all</hi> that elſe dare urge</l>
+            </lg>
+            <lg>
+               <l>But ought <hi>againſt them.</hi> Tells <hi>them their power ſhall ſtand,</hi>
+               </l>
+               <l>Maugre the Acts of all by Sea and Land,</l>
+               <l>But when <hi>(in Fifty-two)</hi> he plainly ſaw,</l>
+               <l>Unto what ſide, the <hi>Army gan to draw,</hi>
+               </l>
+               <l>Oh! now (ſays he) <hi>Great Parliament your Power</hi>
+               </l>
+               <l>
+                  <hi>Is but ſhort-liv'd; And I expect (each hour)</hi>
+               </l>
+               <l>
+                  <hi>Your timely Diſſolution!</hi> In <hi>Fifty-three,</hi>
+               </l>
+               <l>
+                  <hi>Baſely abuſes them;</hi> Threatning, that <hi>he</hi>
+               </l>
+               <l>(With others) <hi>each Member thereof will call to</hi>
+               </l>
+               <l>
+                  <hi>Account;</hi> And ſo, (in wrath) Devines their wo.</l>
+               <l>In <hi>Fifty-four</hi> he <hi>them unthankful ſtyles:</hi>
+               </l>
+               <l>
+                  <hi>Moſt terrible;</hi> [Forgetting's former Wyles.]</l>
+               <l>
+                  <hi>A Private ended crew; Intemperate;</hi>
+               </l>
+               <l>
+                  <hi>Not fitting for to ſway ſo great a State.</hi>
+               </l>
+               <l>
+                  <hi>They'r Drowſie, Slothful, But yet are become,</hi>
+               </l>
+               <l>
+                  <hi>As cunning Taylers!</hi> [His PROFESSION!]<note n="*" place="margin">
+                     <hi>Lilly was a Tayler before pretended Aſtro<g ref="char:EOLhyphen"/>logie and Apprent<g ref="char:EOLhyphen"/>ice to</hi> Pawlin <hi>in the Strand.</hi>
+                  </note>
+               </l>
+               <l>
+                  <hi>And thus you ſee, A Parliaments no more</hi>
+               </l>
+               <l>
+                  <hi>With this Cretenſis, then each Country Boare.</hi>
+               </l>
+               <l>Further! Let's note the <hi>Signal flattery</hi>
+               </l>
+               <l>He Publiſh'd in his <hi>ſenſeleſſe Monarchy;</hi>
+               </l>
+               <l>Swearing <hi>no King in England, more ſhall Reign.</hi>
+               </l>
+               <l>Yet when <hi>th' Proaector gan to Rule;</hi> Amain</l>
+               <l>He Pipes—That <hi>Happy Monarchy's</hi> ſo good</l>
+               <l>
+                  <hi>A Government;</hi> (If truely underſtood)</l>
+               <l>
+                  <hi>None better was:</hi> Vowing't a Gallant thing</l>
+               <l>
+                  <hi>To England,</hi> if <hi>th' Protector were a King.</hi>
+               </l>
+               <l>I might here note <hi>this Quacks</hi> abuſing <hi>Spain;</hi>
+               </l>
+               <l>And's currying favor with that <hi>Prince</hi> again.</l>
+               <l>Of's <hi>Ambedextrous dealing with the State</hi>
+               </l>
+               <l>Of <hi>Sweden, (Denmark,)</hi> at his <hi>flattering Rate.</hi>
+               </l>
+               <l>How with the <hi>wheel of time,</hi> he turns about</l>
+               <l>And <hi>powres his ſpurious pioſn'ous Oracles out,</hi>
+               </l>
+               <l>Unto <hi>Aſtrologies,</hi> and <hi>Artiſts</hi> ſhame!</l>
+               <l>
+                  <hi>But Quaks are Quaks though pras'd ith' mouth of Fame.</hi>
+               </l>
+               <l>Hence, <hi>Baſer Gypſes!</hi> here is one that can</l>
+               <l>Out do <hi>ye all,</hi> in flattering any man,</l>
+               <l>Hence, with the <hi>dull ſtock of</hi> your <hi>footſtool Cares;</hi>
+               </l>
+               <l>Heer's one <hi>out-cheats-ye,</hi> by the <hi>height oth' Stars</hi>
+               </l>
+               <l>Hence with your <hi>common ſmall Beer ſingle Fee,</hi>
+               </l>
+               <l>Heer's one <hi>pulls Kingdoms</hi> for the <hi>Golden Fleece.</hi>
+               </l>
+               <l>Be gone you <hi>Roſie-Crucians,</hi> that pretend,</l>
+               <l>
+                  <hi>All things to know;</hi> Heer's one your skill can Mend.</l>
+               <l>Fly, Fly, you <hi>Fairy Elves,</hi> that uſe to Prye</l>
+               <l>Into the <hi>Cloſets</hi> of <hi>Men's ſecreſie,</hi>
+               </l>
+               <l>Your skill is ſtale; Heer's one that may compare</l>
+               <l>With <hi>Lucifer's great ſelf,</hi> [both head and hair!]</l>
+               <l>Avant <hi>Great Fauſtus, Bacon, Lamb;</hi> and Let</l>
+               <l>Th' <hi>Impoſters Bayes</hi> on <hi>Lillyes head</hi> be ſet</l>
+               <l>That <hi>Lawrell</hi> (ſurely) will befit <hi>him</hi> beſt,</l>
+               <l>Becauſe <hi>he bears</hi> AMERLIN for <hi>his Creſt.</hi>
+               </l>
+               <l>Let all the <hi>Muſes joyn, LILLY,</hi> to ſing</l>
+               <l>Of <hi>Paraſites the onely lawful King.</hi>
+               </l>
+               <l>
+                  <hi>For hee's moſt fit to be a Prince of ſlaves,</hi>
+               </l>
+               <l>
+                  <hi>That in himſelf contains ten thouſand</hi> KNAVES.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed in the year, 1660.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
